@@ -24,10 +24,28 @@ export default function MusingsPage() {
           variants={fadeIn}
           className="mt-4 opacity-80"
         >
-          A loose collection of notes, snippets, and thoughts. Expect rough edges.
+          A few thoughts.
         </motion.p>
 
         <section className="mt-10 space-y-6">
+          {/* Bread post */}
+          <article className="group">
+            <a
+              href="/musings/bread"
+              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
+            >
+              <div className="flex items-center justify-between">
+                <h2 className="text-lg font-medium group-hover:underline">
+                  The one bread to rule them all
+                </h2>
+                <time className="text-sm opacity-70">2025-09-15</time>
+              </div>
+              <p className="mt-2 text-sm opacity-80">
+                An ode to god bread
+              </p>
+            </a>
+          </article>
+
           {/* Real post */}
           <article className="group">
             <a
@@ -41,7 +59,7 @@ export default function MusingsPage() {
                 <time className="text-sm opacity-70">2025-09-01</time>
               </div>
               <p className="mt-2 text-sm opacity-80">
-                A weekend wandering through granite, waterfalls, and very tall trees. Photos inside.
+                From a long and smoky day
               </p>
             </a>
           </article>
