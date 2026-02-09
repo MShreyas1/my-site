@@ -36,13 +36,11 @@ export default function MusingsPage() {
             >
               <div className="flex items-center justify-between">
                 <h2 className="text-lg font-medium group-hover:underline">
-                  The Coordination Failure of Getting Rich to Do Good
+                  Why I don't buy earn to give
                 </h2>
                 <time className="text-sm opacity-70">2026-02-08</time>
               </div>
-              <p className="mt-2 text-sm opacity-80">
-                On earning to give, and why the math breaks down
-              </p>
+              
             </a>
           </article>
 
