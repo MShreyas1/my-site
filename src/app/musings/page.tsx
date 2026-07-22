@@ -42,7 +42,7 @@ export default function MusingsPage() {
                 <time className="text-sm opacity-70">2026-07-21</time>
               </div>
               <p className="mt-2 text-sm opacity-80">
-                ~55 miles through the eastern Sierra, mostly in the dark
+                ~55 miles through the eastern Sierra
               </p>
             </a>
           </article>
