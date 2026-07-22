@@ -29,6 +29,24 @@ export default function MusingsPage() {
         </motion.p>
 
         <section className="mt-10 space-y-6">
+          {/* Evolution Loop post */}
+          <article className="group">
+            <a
+              href="/musings/evolutionloop"
+              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
+            >
+              <div className="flex items-center justify-between">
+                <h2 className="text-lg font-medium group-hover:underline">
+                  The Evolution Loop, in a Single Push
+                </h2>
+                <time className="text-sm opacity-70">2026-07-21</time>
+              </div>
+              <p className="mt-2 text-sm opacity-80">
+                ~55 miles through the eastern Sierra, mostly in the dark
+              </p>
+            </a>
+          </article>
+
           {/* Earn to give post */}
           <article className="group">
             <a
