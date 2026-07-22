@@ -264,6 +264,20 @@ export default function EvolutionLoopMusing() {
           </figcaption>
         </figure>
 
+        {/* Closing reflection */}
+        <section className="prose prose-neutral dark:prose-invert max-w-none mt-8">
+          <p>
+            During this trip, at several times I felt that the terrain and distance ahead was too
+            insurmountable, given our pace, and given energy levels. Despite this, embarking on a
+            journey like this with someone else gives special meaning to the experience. It's special
+            to me that someone else had the same visual, physical, and at least partial emotional
+            experience over more than one day. The shared joy of seeing the car in the parking lot is
+            ever so sweet and relieving in a way that seeps into one's bones. I never sleep as easily
+            as I am when exhausted, sitting reclined in my car after a monumental day in the
+            mountains.
+          </p>
+        </section>
+
         {/* Lightbox modal */}
         {lightbox && (
           <div
