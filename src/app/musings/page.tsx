@@ -29,6 +29,24 @@ export default function MusingsPage() {
         </motion.p>
 
         <section className="mt-10 space-y-6">
+          {/* Glacier post */}
+          <article className="group">
+            <a
+              href="/musings/glacier"
+              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
+            >
+              <div className="flex items-center justify-between">
+                <h2 className="text-lg font-medium group-hover:underline">
+                  The Moods of Glacier
+                </h2>
+                <time className="text-sm opacity-70">2026-09-09</time>
+              </div>
+              <p className="mt-2 text-sm opacity-80">
+                Five days on the North Circle Loop
+              </p>
+            </a>
+          </article>
+
           {/* Evolution Loop post */}
           <article className="group">
             <a
