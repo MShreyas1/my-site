@@ -179,7 +179,7 @@ export default function GlacierMusing() {
             variants={fadeIn}
             className="text-3xl md:text-4xl font-semibold tracking-tight"
           >
-            The Moods of Glacier
+            Some Moods of Glacier
           </motion.h1>
           <motion.p
             initial="hidden"

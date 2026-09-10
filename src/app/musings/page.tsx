@@ -37,7 +37,7 @@ export default function MusingsPage() {
             >
               <div className="flex items-center justify-between">
                 <h2 className="text-lg font-medium group-hover:underline">
-                  The Moods of Glacier
+                  Some Moods of Glacier
                 </h2>
                 <time className="text-sm opacity-70">2026-09-09</time>
               </div>
