@@ -348,7 +348,7 @@ export default function SurfCityMusing() {
           </p>
           <p>
             At some point later in the night we arrive at King City. I remember very little, but I do
-            remember that our Punjabi friend once again speaks Punjabi, securing us both free pizza
+            remember that our Punjabi friend once again speaks Punjabi to a gas station owner, securing us both free pizza
             and cookies. At this point, I am in the mode of scarfing down whatever food I lay my eyes
             on, a mode of eating that I quite enjoy. We resolve to leave at 6:30AM "rolling," which
             leaves us to wake up at 5:30. It's 1:50AM. I take a quick shower, throw on my fresh bibs,
