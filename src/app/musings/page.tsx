@@ -29,6 +29,24 @@ export default function MusingsPage() {
         </motion.p>
 
         <section className="mt-10 space-y-6">
+          {/* Surf City post */}
+          <article className="group">
+            <a
+              href="/musings/SurfCity"
+              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
+            >
+              <div className="flex items-center justify-between">
+                <h2 className="text-lg font-medium group-hover:underline">
+                  Surf City 600k
+                </h2>
+                <time className="text-sm opacity-70">2026-10-29</time>
+              </div>
+              <p className="mt-2 text-sm opacity-80">
+                Two days, minimal training, and three methods of doping
+              </p>
+            </a>
+          </article>
+
           {/* Glacier post */}
           <article className="group">
             <a
