@@ -288,7 +288,7 @@ export default function SurfCityMusing() {
             music is invaluable in lifting one's mood. The second are pain killers, e.g. Pixie sticks
             (which one of our friends had brought several of) and Ibuprofen. The last is caffeine and
             energy drinks for obvious reasons. The combination of these three doping methods is truly
-            awe inspiring and 100% responsible for my eventual finish of this ride.
+            incredible and 100% responsible for my eventual finish of this ride.
           </p>
         </section>
 
