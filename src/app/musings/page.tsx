@@ -42,7 +42,7 @@ export default function MusingsPage() {
                 <time className="text-sm opacity-70">2026-10-29</time>
               </div>
               <p className="mt-2 text-sm opacity-80">
-                Two days, minimal training, and three methods of doping
+                600km along the coast and through the Salinas Valley
               </p>
             </a>
           </article>
@@ -132,37 +132,6 @@ export default function MusingsPage() {
               <p className="mt-2 text-sm opacity-80">
                 From a long and smoky day
               </p>
-            </a>
-          </article>
-
-          {/* Placeholder posts to be filled later */}
-          <article className="group">
-            <a
-              href="#"
-              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
-            >
-              <div className="flex items-center justify-between">
-                <h2 className="text-lg font-medium group-hover:underline">
-                  On learning in public
-                </h2>
-                <time className="text-sm opacity-70">2025-08-21</time>
-              </div>
-              <p className="mt-2 text-sm opacity-80">Placeholder summary.</p>
-            </a>
-          </article>
-
-          <article className="group">
-            <a
-              href="#"
-              className="block rounded-xl border border-neutral-200/70 dark:border-neutral-800 p-5 hover:shadow-md transition-shadow"
-            >
-              <div className="flex items-center justify-between">
-                <h2 className="text-lg font-medium group-hover:underline">
-                  Small tools that reduce friction
-                </h2>
-                <time className="text-sm opacity-70">2025-08-03</time>
-              </div>
-              <p className="mt-2 text-sm opacity-80">Placeholder summary.</p>
             </a>
           </article>
         </section>
